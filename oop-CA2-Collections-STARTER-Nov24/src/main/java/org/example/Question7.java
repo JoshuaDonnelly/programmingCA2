@@ -24,6 +24,7 @@ public class Question7  // Shares Tax Calculations (Queue)
        Queue<Block> q = new LinkedList<Block>();
         String command="";
             do {
+            System.out.println("Enter a command in buy/sell - Quantity - Price");
             System.out.print(">");
             command = in.next();
             if(command.equalsIgnoreCase("buy"))
