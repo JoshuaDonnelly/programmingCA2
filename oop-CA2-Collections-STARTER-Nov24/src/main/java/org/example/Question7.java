@@ -4,8 +4,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 /**
- *  Name:
- *  Class Group:
+ *  Name: Joshua Donnelly
+ *  Class Group: SD2a
  */
 public class Question7  // Shares Tax Calculations (Queue)
 {

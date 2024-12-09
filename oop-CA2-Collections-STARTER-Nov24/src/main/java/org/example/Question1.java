@@ -5,8 +5,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *  Your Name:
- *  Class Group:
+ *  Your Name: Joshua Donnelly
+ *  Class Group: SD2a
  */
 public class Question1 {    // Interfaces
     public static void main(String[] args) {

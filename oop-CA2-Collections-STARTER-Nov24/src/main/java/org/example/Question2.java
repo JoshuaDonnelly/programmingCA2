@@ -5,8 +5,8 @@ import java.util.Scanner;
 import java.util.Stack;
 
 /**
- *  Name:
- *  Class Group:
+ *  Your Name: Joshua Donnelly
+ *  Class Group: SD2a
  */
 public class Question2  // Car Parking - Stack
 {
@@ -38,6 +38,7 @@ public class Question2  // Car Parking - Stack
                             System.out.println("Moved " + movedCar + " to the street");
 
                         }
+                        System.out.println("Current street: " + street);
                         driveway.pop();
                         System.out.println("Car " + selectedCar + " retrieved.");
 
